@@ -2,6 +2,11 @@ A curated list of technology companies, resources, and tools in the agricultural
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/marceloalves/awesome-agtech/pulls)
 
+## Contents
+- [Software](#software)
+  - [Open Source](#open-source)
+  - [Proprietary](#proprietary)
+
 ## Software
 
 #### Open Source
