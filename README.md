@@ -19,3 +19,4 @@ Ekylibre is a simple enterprise management web application for farmers and small
 * [CattleMax](https://www.cattlemax.com/) - CattleMax makes beef herd management software
 * [Farm Business Network](https://www.farmersbusinessnetwork.com/) - FBN provides agronomic data, market data, and pricing transparency for crop farmers.
 * [LocalOrbit](https://localorbit.com/) - Local Orbit is a web app that provides sales and business management tools for local food producers, aggregators and distributors. 
+* [Tend](https://www.tend.ag/) - Tend is a web app for managing diversified organic farms.  
