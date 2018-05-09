@@ -17,4 +17,5 @@ Ekylibre is a simple enterprise management web application for farmers and small
 * [Agrible](https://www.agrible.com/) - Agrible provides realtime data sharing between growers, retailers and processors.
 * [AgSquared](http://www.agsquared.com/) - AgSquared is a records keeping web application for planning, management and record keeping on farms 
 * [CattleMax](https://www.cattlemax.com/) - CattleMax makes beef herd management software
-* [Farm Business Network](https://www.farmersbusinessnetwork.com/) - FBN provides agronomic data, market data, and pricing transparency for crop farmers. 
+* [Farm Business Network](https://www.farmersbusinessnetwork.com/) - FBN provides agronomic data, market data, and pricing transparency for crop farmers.
+* [LocalOrbit](https://localorbit.com/) - Local Orbit is a web app that provides sales and business management tools for local food producers, aggregators and distributors. 
