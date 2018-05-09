@@ -12,3 +12,4 @@ Ekylibre is a simple enterprise management web application for farmers and small
 * [Tania](https://github.com/Tanibox/tania-core) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress.
 
 * [Agrible](https://www.agrible.com/) - Agrible provides realtime data sharing between growers, retailers and processors.
+* [AgSquared](http://www.agsquared.com/) - AgSquared is a records keeping web application for planning, management and record keeping on farms 
