@@ -10,7 +10,8 @@ A curated list of technology companies, resources, and tools in the agricultural
 Ekylibre is a simple enterprise management web application for farmers and small enterprises
 * [farmOS](https://github.com/farmOS/farmOS) - farmOS is a web-based application for farm management, planning, and record keeping.
 * [Tania](https://github.com/Tanibox/tania-core) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress.
-* [FarmData](https://farmdata.dickinson.edu/guest.php) - FarmData is a free open farm management tool to help operate a farm. 
+* [FarmData](https://farmdata.dickinson.edu/guest.php) - FarmData is a free open farm management tool to help operate a farm.
+* [ISOBlue](https://www.isoblue.org/) - ISOBlue is a open source solution for connected farm machinery.
 
 #### Proprietary
 * [Agrible](https://www.agrible.com/) - Agrible provides realtime data sharing between growers, retailers and processors.
