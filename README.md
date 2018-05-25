@@ -27,4 +27,5 @@ A curated list of technology companies, resources, and tools in the agricultural
 * [CattleMax](https://www.cattlemax.com/) - CattleMax makes beef herd management software.
 * [Farm Business Network](https://www.farmersbusinessnetwork.com/) - FBN provides agronomic data, market data, and pricing transparency for crop farmers.
 * [LocalOrbit](https://localorbit.com/) - Local Orbit is a web app that provides sales and business management tools for local food producers, aggregators and distributors.
+* [Summit](https://www.sstsoftware.com/SSTSummit.html) -  Summit is precision ag software built on the agX platform for processing of raw farm data into valuable information reports.
 * [Tend](https://www.tend.ag/) - Tend is a web app for managing diversified organic farms.
